@@ -1,0 +1,16 @@
+.notification{
+    padding:20px;
+    background-color: seagreen;
+    color:white;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+#not{
+    list-style-type: none;
+}
+#not:before{
+    content: '•';
+    font-size: 22px;
+    padding-right: 20px
+}

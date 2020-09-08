@@ -1,0 +1,29 @@
+.nopost{
+    font-size: 40px;
+    color:grey;
+    margin-top: 150px;
+    margin-left:400px;
+    float:left;
+}
+.add{
+    background-color: transparent;
+    border: 0px;
+    font-size: 90px;
+    margin-left: 100px;
+    color:grey;
+    text-decoration: none;
+}
+.type{
+    height:50px;
+    width:220px;
+    background-color: transparent;
+    padding:10px;
+    border-radius: 5px;
+    outline: none;
+    color: #666666
+}
+.address{
+    resize: none;
+    border-radius: 5px;
+    color: #666666;
+}

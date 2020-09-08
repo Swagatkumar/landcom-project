@@ -1,0 +1,26 @@
+.body{
+    padding:10px;
+    color:#666;
+}
+.heading{
+    font-size: 25px;
+    color: #666;
+    float: left;
+}
+.heading2{
+    font-size: 20px;
+    color: #666;
+    float: left;
+}
+.value{
+    font-size: 18px;
+    color:#666;
+    margin-left:10%;
+    margin-top: 3%;
+    float:left;
+}
+.files{
+    float:right;
+    margin-right: 10%;
+    margin-top: 3%;
+}
